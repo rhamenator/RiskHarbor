@@ -11,6 +11,7 @@ upgrade-guid = "3D307011-0C16-43DE-A3FE-4FB44898CC45"
 path-guid = "EF4868D4-932D-488D-9E5C-4DDC388DD0CA"
 license = false
 eula = false
+product-icon = "wix\\Product.ico"
 
 [dependencies]
 tokio = { version = "1.48", features = ["macros", "rt-multi-thread"] }
