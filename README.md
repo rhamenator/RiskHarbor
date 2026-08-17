@@ -1,3 +1,7 @@
+<p align="center">
+  <img src=".github/assets/logo.png" alt="RiskHarbor logo" width="220">
+</p>
+
 # RiskHarbor
 
 RiskHarbor is a clean-room insurance-operations core with integer-safe premium
